@@ -6,7 +6,9 @@
 
 A beautiful eBook app UI built with Flutter. This app demonstrates modern design patterns and best practices for Flutter development.
 
-![App Demo](assets/sample/eBook.gif)
+<p align="center">
+  <img src="assets/sample/eBook.gif" alt="App Demo" width="300" />
+</p>
 
 <div align="center">
   
@@ -28,7 +30,7 @@ A beautiful eBook app UI built with Flutter. This app demonstrates modern design
 
 ## 📱 App Screenshots
 
-<p float="left">
+<p align="center">
   <img src="assets/sample/Screenshot 2025-02-12 154052.png" width="247" />
   <img src="assets/sample/Screenshot 2025-02-12 154057.png" width="270" /> 
   <img src="assets/sample/Screenshot 2025-02-12 154103.png" width="250" />
